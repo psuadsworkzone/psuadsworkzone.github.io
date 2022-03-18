@@ -1,4 +1,4 @@
-# Safe Integration of Automated Vehicles into Work Zones
+# Safe Integration of Automated Vehicles into Work Zones.
 Welcome to the Penn State wiki page for details on the Automated Driving System Workzone project. This page presents details primarily focused on the Penn State team activity. Additional details can be found at the PennDOT's public ADS page, which can be found [here](https://www.penndot.gov/ProjectAndPrograms/ResearchandTesting/Autonomous%20_Vehicles/Pages/ADS-Demonstration.aspx)
 
 # The Motivation for the Safe Integration of Automated Vehicles into Work Zones
@@ -47,28 +47,32 @@ See [https://connectedvehicles.psu.edu/](https://connectedvehicles.psu.edu/)
 <br>
 
 # Broader impacts 
-The Automated Driving System Work Zone reduces abnormal vehicle behaviors improves safety by providing information to the AVs in real-time. By creating the connection between the AVs and construction environments, reliable and accurate information can be used by AVs to make decisions when approaching and driving through work zones. By investigating the behaviors resulting from these decisions, we not only can improve safety in and around work zones for AVs but also the safety of construction zone operators and other motorists. Apart from that, in combination with traffic flow in this area, these behaviors can also be used to adjust the layout of the working zone to ease congestion and inform motorists at an appropriate time and place to improve time and cost effectiveness.
+The Automated Driving System Work Zone reduces abnormal vehicle behaviors improves safety by providing information to the AVs in real-time. By creating the connection between the AVs and construction environments, reliable and accurate information can be used by AVs to make decisions when approaching and driving through work zones. By investigating the behaviors resulting from these decisions, we not only can improve safety in and around work zones for AVs but also the safety of construction zone operators and other motorists. Apart from that, in combination with traffic flow in this area, these behaviors can also be used to adjust the layout of the working zone to ease congestion and inform motorists at an appropriate time and location to improve time and cost effectiveness.
 # Data flow 
 The data flows through sensors on the vehicle, computational systems in the vehicle, hard drives, computational systems off-vehicle, local databases/servers, cloud service, and finally goes into applications such as autonomous vehicles, vehicle simulation such as CARLA, traffic simulation such as SUMO and other end users, shown as below.
 
-<img src ="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/DataFlow.PNG" >
+![](./DataFlow.PNG)
 
 
 # Code repositories
-|     Category     |     Resources                                                                                           |     Repo address                                                                                                   |
+Code repositories are hosted by IVSG as below.
+
+
+|     Category     |     Resources                                                                                           |     Repo address                                            |
 |------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-|     Documents    |     Mapping vehicle calibration data and   results                                                      |     https://github.com/ivsg-psu/Hardware_MappingVanHardware_Calibration                                            |
-|                  |     Mapping vehicle set up information,   such as wiring layouts, physical locations of sensors, etc    |     https://github.com/ivsg-psu/Hardware_MappingVanHardware_HardwareSummary                                        |
-|        Code      |     Code to operate sensors on mapping   vehicle                                                        |     https://github.com/ivsg-psu/FieldDataCollection_DataCollectionProcedures_MappingVanROSNodes                    |
-|                  |     Code to parse raw data to raw data   database                                                       |     https://github.com/ivsg-psu/FieldDataCollection_DataCollectionProcedures_ParseRawDataToDatabase                |
-|                  |     Code to clean raw data and push into   cleaned-data database                                        |     https://github.com/ivsg-psu/FeatureExtraction_LaneDetection_LIDAR_Reflectivity_And_Geometry_Lane_Extraction    |
-|                  |     Code to associate cleaned data with   map(WIP)                                                      |     https://github.com/ivsg-psu/FieldDataCollection_DataCollectionProcedures_MapAssociation                        |
-|                  |     Code to merge individual maps(WIP)                                                                  |     https://github.com/ivsg-psu/FieldDataCollection_DataCollectionProcedures_MapMerge                              |
+|     Documents    |     Mapping vehicle calibration data and   results                                                      |     https://github.com/ivsg-psu/Hardware_MappingVanHardware_<br />Calibration                                            |
+|                  |     Mapping vehicle set up information,   such as wiring layouts, physical locations of sensors, etc    |     https://github.com/ivsg-psu/Hardware_MappingVanHardware_<br />HardwareSummary                                        |
+|        Code      |     Code to operate sensors on mapping   vehicle                                                        |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MappingVanROSNodes                    |
+|                  |     Code to parse raw data to raw data   database                                                       |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_ParseRawDataToDatabase                |
+|                  |     Code to clean raw data and push into   cleaned-data database                                        |     https://github.com/ivsg-psu/FeatureExtraction_LaneDetect<br />ion_LIDAR_Reflectivity_And_Geometry_Lane_Extraction    |
+|                  |     Code to associate cleaned data with   map(WIP)                                                      |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MapAssociation                        |
+|                  |     Code to merge individual maps(WIP)                                                                  |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MapMerge                              |
+
 # Equipment inventory
 We have received traffic objects from PennDOT as below.
-<img src ="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/TrafficObjectsHostedByPennState.PNG" >
+![](./TrafficObjectsReceivedFromPennDOT.PNG)
 We also have traffic objects hosted by Penn State that we can use on test track.
-<img src ="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/TrafficObjectsReceivedFromPennDOT.PNG" >
+![](./TrafficObjectsHostedByPennState.PNG)
 # Groups with related interests
 Please see links below for other research groups with related interests:
 <ul>
@@ -82,5 +86,4 @@ Please see links below for other research groups with related interests:
 
 # Funding
 This project is funded by USDOT via Pennsylvania Department of Transportation under NOFO # 693JJ319NF00001.
-
 
