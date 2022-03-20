@@ -65,8 +65,8 @@ Code repositories are hosted by IVSG as below.
 |        Code      |     Code to operate sensors on mapping   vehicle                                                        |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MappingVanROSNodes                    |
 |                  |     Code to parse raw data to raw data   database                                                       |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_ParseRawDataToDatabase                |
 |                  |     Code to clean raw data and push into   cleaned-data database                                        |     https://github.com/ivsg-psu/FeatureExtraction_LaneDetect<br />ion_LIDAR_Reflectivity_And_Geometry_Lane_Extraction    |
-|                  |     Code to associate cleaned data with   map(WIP)                                                      |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MapAssociation                        |
-|                  |     Code to merge individual maps(WIP)                                                                  |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MapMerge                              |
+|                  |     Code to associate cleaned data with   map                                                      |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MapAssociation                        |
+|                  |     Code to merge individual maps                                                                  |     https://github.com/ivsg-psu/FieldDataCollection_DataColl<br />ectionProcedures_MapMerge                              |
 
 # Equipment inventory
 We have received traffic objects from PennDOT as below.
