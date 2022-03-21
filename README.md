@@ -92,7 +92,22 @@ Please see links below for other research groups with related interests:
 <ul>
 <li>
  <a href = "https://ctre.iastate.edu/roadway-information-database-rid/">
-  SHRP 2 WEBINAR: SHRP 2 Roadway Information Database (RID): Doing Research without NDS data
+  SHRP 2 WEBINAR: SHRP 2 Roadway Information Database (RID): Doing Research without NDS data.
+ </a>
+</li>
+ <li>
+ <a href = "https://carla.org/">
+  CARLA - Open-source simulator for autonomous driving research.
+ </a>
+</li>
+  <li>
+ <a href = "https://www.plm.automation.siemens.com/global/en/products/simcenter/prescan.html">
+  PreScan - Develop more reliable and safer automated vehicle functionalities.
+ </a>
+</li>
+   <li>
+ <a href = "https://www.eclipse.org/sumo/">
+  SUMO - n open source, highly portable, microscopic and continuous multi-modal traffic simulation package designed to handle large networks.
  </a>
 </li>
 </ul>
