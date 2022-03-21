@@ -51,7 +51,9 @@ The Automated Driving System Work Zone reduces abnormal vehicle behaviors improv
 # Data flow 
 The data flows through sensors on the vehicle, computational systems in the vehicle, hard drives, computational systems off-vehicle, local databases/servers, cloud service, and finally goes into applications such as autonomous vehicles, vehicle simulation such as CARLA, traffic simulation such as SUMO and other end users. A high leve view of the data flow is shown as below.
 
-![](./data flow high view.png)
+![](./DataFlowHighView.PNG)
+
+<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/DataFlowHighView.png?raw=true" > 
 
 The mapping vehicle is instrumented with GPS, Cameras, LiDAR, Encoder, IMU and Road Wheel Angle String Potentiometers. We do calibration after vehicle building, and before and after tests to secure data quality. 
 
