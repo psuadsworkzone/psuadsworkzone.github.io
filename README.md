@@ -49,10 +49,21 @@ See [https://connectedvehicles.psu.edu/](https://connectedvehicles.psu.edu/)
 # Broader impacts 
 The Automated Driving System Work Zone reduces abnormal vehicle behaviors improves safety by providing information to the AVs in real-time. By creating the connection between the AVs and construction environments, reliable and accurate information can be used by AVs to make decisions when approaching and driving through work zones. By investigating the behaviors resulting from these decisions, we not only can improve safety in and around work zones for AVs but also the safety of construction zone operators and other motorists. Apart from that, in combination with traffic flow in this area, these behaviors can also be used to adjust the layout of the working zone to ease congestion and inform motorists at an appropriate time and location to improve time and cost effectiveness.
 # Data flow 
-The data flows through sensors on the vehicle, computational systems in the vehicle, hard drives, computational systems off-vehicle, local databases/servers, cloud service, and finally goes into applications such as autonomous vehicles, vehicle simulation such as CARLA, traffic simulation such as SUMO and other end users, shown as below.
+The data flows through sensors on the vehicle, computational systems in the vehicle, hard drives, computational systems off-vehicle, local databases/servers, cloud service, and finally goes into applications such as autonomous vehicles, vehicle simulation such as CARLA, traffic simulation such as SUMO and other end users. A high leve view of the data flow is shown as below.
+
+![](./data flow high view.png)
+
+The mapping vehicle is instrumented with GPS, Cameras, LiDAR, Encoder, IMU and Road Wheel Angle String Potentiometers. We do calibration after vehicle building, and before and after tests to secure data quality. 
+
+![](./sensor building and calibration.png)
+
+We use a multi-database architecture to process the data.
 
 ![](./DataFlow.PNG)
 
+The data finally can be delivered to end users such as autonomous vehicles, vehicle simulation such as CARLA, traffic simulation such as SUMO.
+
+![](./data delivery.PNG)
 
 # Code repositories
 Code repositories are hosted by IVSG as below.
