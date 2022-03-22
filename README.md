@@ -129,10 +129,15 @@ We also have traffic objects hosted by Penn State that we can use on test track.
 # Penn State activities
 We set up an example data structure in the DMS to validate the directory as per task 2.1.
 
+<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/DataStructureInDMS.png?raw=true" > 
+
 We did a test run to validate the mapping vehicle operation.
+
+<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/exampleMappingImage.jpg?raw=true" > 
 
 We started to test the CARLA traffic simulator.
 
+<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/CARLATest.png?raw=true" > 
 # Broader impacts 
 The Automated Driving System Work Zone reduces abnormal vehicle behaviors improves safety by providing information to the AVs in real-time. By creating the connection between the AVs and construction environments, reliable and accurate information can be used by AVs to make decisions when approaching and driving through work zones. By investigating the behaviors resulting from these decisions, we not only can improve safety in and around work zones for AVs but also the safety of construction zone operators and other motorists. Apart from that, in combination with traffic flow in this area, these behaviors can also be used to adjust the layout of the working zone to ease congestion and inform motorists at an appropriate time and location to improve time and cost effectiveness.
 
