@@ -20,8 +20,33 @@ Objectives of this project:
 2. Evaluate the impact of increased visibility (machine vision) of pavement markings and work zone artifacts on AVs through innovative coatings
 3. Evaluate the impact of providing high definition mapping of work zone artifacts (i.e. cones, barrels, workers, vehicles)
 4. Improve the map information dissemination process from the mapping providers and/or infrastructure owners/operators to the AVs through standardization of digital mapping information for work zones.
+# Task list
+## Year - 1 Planning
+* Task 1.1 – project management
 
+* Task 1.2 - risk management/mitigation 
 
+* Task 1.3 – systems engineering management plan
+
+* Task 1.4 – concept of operations
+
+* Task 1.5 – systems requirements and testing plan
+
+* Task 1.6 – system architecture and standards plan
+
+* Task 1.7 - deployment plan 
+* Task 1.8 – operations and maintenance plan
+* Task 1.9 – data privacy and data management plan
+* Task 1.10– project evaluation plan
+* Task 1.11 – human use approval
+* Task 1.12 – coordination, communication, and outreach
+
+## Year - 2 Simulation
+* Task 2.1 – Data Management System 
+
+* Task 2.2 – Simulation
+
+We are currently at Year - 2. For details of the tasks, please refer to https://www.transportation.gov/policy-initiatives/automated-vehicles/36-pennsylvania-department-transportation.
 # Team members (Penn State Only)
  
 * Project PIs
@@ -46,8 +71,7 @@ See [https://connectedvehicles.psu.edu/](https://connectedvehicles.psu.edu/)
 * CMU's AV vehicle fleet
 <br>
 
-# Broader impacts 
-The Automated Driving System Work Zone reduces abnormal vehicle behaviors improves safety by providing information to the AVs in real-time. By creating the connection between the AVs and construction environments, reliable and accurate information can be used by AVs to make decisions when approaching and driving through work zones. By investigating the behaviors resulting from these decisions, we not only can improve safety in and around work zones for AVs but also the safety of construction zone operators and other motorists. Apart from that, in combination with traffic flow in this area, these behaviors can also be used to adjust the layout of the working zone to ease congestion and inform motorists at an appropriate time and location to improve time and cost effectiveness.
+
 # Data flow 
 The data flows through sensors on the vehicle, computational systems in the vehicle, hard drives, computational systems off-vehicle, local databases/servers, cloud service, and finally goes into applications such as autonomous vehicles, vehicle simulation such as CARLA, traffic simulation such as SUMO and other end users. A high leve view of the data flow is shown as below.
 
@@ -101,6 +125,17 @@ We have received traffic objects from PennDOT as below.
 ![](./TrafficObjectsReceivedFromPennDOT.PNG)
 We also have traffic objects hosted by Penn State that we can use on test track.
 ![](./TrafficObjectsHostedByPennState.PNG)
+
+# Penn State activities
+We set up an example data structure in the DMS to validate the directory as per task 2.1.
+
+We did a test run to validate the mapping vehicle operation.
+
+We started to test the CARLA traffic simulator.
+
+# Broader impacts 
+The Automated Driving System Work Zone reduces abnormal vehicle behaviors improves safety by providing information to the AVs in real-time. By creating the connection between the AVs and construction environments, reliable and accurate information can be used by AVs to make decisions when approaching and driving through work zones. By investigating the behaviors resulting from these decisions, we not only can improve safety in and around work zones for AVs but also the safety of construction zone operators and other motorists. Apart from that, in combination with traffic flow in this area, these behaviors can also be used to adjust the layout of the working zone to ease congestion and inform motorists at an appropriate time and location to improve time and cost effectiveness.
+
 # Groups with related interests
 Please see links below for other research groups with related interests:
 <ul>
