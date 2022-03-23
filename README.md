@@ -63,7 +63,7 @@ Develop code that determines safety metrics for work zones
 
  Maddipatla Satya Prasad   |  Wushuang Bai             | Liming Gao                | Xinyu Cao
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src ="https://user-images.githubusercontent.com/66030812/148874623-e1d5d245-d73a-4627-84d4-d3e6ebe4a59a.jpg?raw=true" height = "200" width= "200">  | <img src="https://user-images.githubusercontent.com/66030812/148874647-b4cdc4b8-b89f-4a1f-84ee-668c88bc0c23.jpg?raw=true" height = "200" width= "200"> | <img src="https://user-images.githubusercontent.com/66030812/148875266-8b5677b8-01df-46fd-8fbd-e02e0ea36858.jpg?raw=true" height = "200" width= "200"> |  <img src="https://user-images.githubusercontent.com/66030812/148875578-b771c5a6-ba7f-4ed7-be9f-0eea22f8b732.jpg?raw=true" height = "200" width= "200">
+<img src ="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/SatyaPrasadMaddipatla.jpg?raw=true" height = "200" width= "200">  |<img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/WushuangBai_photo.jpg?raw=true" height = "200" width= "200"> | <img src="https://user-images.githubusercontent.com/66030812/148875266-8b5677b8-01df-46fd-8fbd-e02e0ea36858.jpg?raw=true" height = "200" width= "200"> |  <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/XinyuCao.jpg?raw=true" height = "200" width= "200">
 
 # Testing vehicles
 ***
