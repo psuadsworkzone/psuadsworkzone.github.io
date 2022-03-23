@@ -35,11 +35,17 @@ Prepare mapping van systems for field testing including:
 etc.
 
 Prepare V2x systems for comms
+
 Prepare road-side devices for connectivity and position measurement
+
 Prepare CARLA computers
+
 Develop code to import mapped environment into CARLA
+
 Develop code to parse mapping van data for work-zone objects
+
 Develop code that determines safety metrics for work zones
+
 (etc).
 
 # Team members (Penn State Only)
