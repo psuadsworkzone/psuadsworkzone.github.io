@@ -24,26 +24,23 @@ Objectives of this project:
 4. Improve the map information dissemination process from the mapping providers and/or infrastructure owners/operators to the AVs through standardization of digital mapping information for work zones.
 # Task list
 ***
-## Year - 1 Planning
+## Year 1:
+Prepare mapping van systems for field testing including:
+* Time synchronization
+* Camera mounting
+* Camera calibration
+* LiDAR install
+* Data parsing
+* Image stitching
+etc.
+Prepare V2x systems for comms
+Prepare road-side devices for connectivity and position measurement
+Prepare CARLA computers
+Develop code to import mapped environment into CARLA
+Develop code to parse mapping van data for work-zone objects
+Develop code that determines safety metrics for work zones
+(etc).
 
-* Task 1.1 – project management
-* Task 1.2 - risk management/mitigation 
-* Task 1.3 – systems engineering management plan
-* Task 1.4 – concept of operations
-* Task 1.5 – systems requirements and testing plan
-* Task 1.6 – system architecture and standards plan
-* Task 1.7 - deployment plan 
-* Task 1.8 – operations and maintenance plan
-* Task 1.9 – data privacy and data management plan
-* Task 1.10– project evaluation plan
-* Task 1.11 – human use approval
-* Task 1.12 – coordination, communication, and outreach
-
-## Year - 2 Simulation
-* Task 2.1 – Data Management System 
-* Task 2.2 – Simulation
-
-We are currently at Year - 2. For details of the tasks, please refer to https://www.transportation.gov/policy-initiatives/automated-vehicles/36-pennsylvania-department-transportation.
 # Team members (Penn State Only)
 ***
  
@@ -166,6 +163,18 @@ Please see links below for other research groups with related interests:
    <li>
  <a href = "https://www.eclipse.org/sumo/">
   SUMO - n open source, highly portable, microscopic and continuous multi-modal traffic simulation package designed to handle large networks.
+ </a>
+</li>
+ 
+    <li>
+ <a href = "https://www.transportation.gov/policy-initiatives/automated-vehicles/36-pennsylvania-department-transportation">
+  Funding information by USDOT. 
+ </a>
+</li>
+ 
+     <li>
+ <a href = "https://www.mathworks.com/products/roadrunner.html">
+  RoadRunner - Design 3D scenes for automated driving simulation.
  </a>
 </li>
 </ul>
