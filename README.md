@@ -33,6 +33,7 @@ Prepare mapping van systems for field testing including:
 * Data parsing
 * Image stitching
 etc.
+
 Prepare V2x systems for comms
 Prepare road-side devices for connectivity and position measurement
 Prepare CARLA computers
