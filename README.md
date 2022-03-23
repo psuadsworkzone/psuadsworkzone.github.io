@@ -172,30 +172,27 @@ Please see links below for other research groups with related interests:
   SUMO - n open source, highly portable, microscopic and continuous multi-modal traffic simulation package designed to handle large networks.
  </a>
 </li>
- 
-    <li>
+  <li>
  <a href = "https://www.transportation.gov/policy-initiatives/automated-vehicles/36-pennsylvania-department-transportation">
   Funding information by USDOT. 
  </a>
 </li>
- 
-     <li>
+  <li>
  <a href = "https://www.mathworks.com/products/roadrunner.html">
   RoadRunner - Design 3D scenes for automated driving simulation.
  </a>
 </li>
- 
-  <li>
+ <li>
  <a href = "https://www.mathworks.com/">
   MATLAB for Artificial Intelligence.
  </a>
 </li>
- 
-   <li>
+ <li>
  <a href = "https://www.commsignia.com/">
   Commsignia connects cars with each other and the smart city infrastructure for a safer, more efficient and more sustainable transportation.
  </a>
 </li>
+ 
 </ul>
 
 
