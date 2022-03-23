@@ -184,6 +184,12 @@ Please see links below for other research groups with related interests:
   RoadRunner - Design 3D scenes for automated driving simulation.
  </a>
 </li>
+ 
+  <li>
+ <a href = "https://www.mathworks.com/">
+  MATLAB for Artificial Intelligence.
+ </a>
+</li>
 </ul>
 
 
