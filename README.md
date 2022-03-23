@@ -10,6 +10,7 @@ In Pennsylvania, the number of work zone crashes has steadily increased since 20
 With Autonmous Vehciles being increasingly deployed to public roads, construction zones may present challenges to these vehicles, construction zone operators, and the surrounding traffic. Construction zones, by definition, are new areas with features that did not exist earlier, that are dynamic, and that may not follow typical conventions. The AV behaviors in workzones may not follow human-driven vehicle behavior, which can confuse construction zone operators that may assume human driving behavior. And as both AVs and construction environments interact with each other, the vehicles nearby the AV may also need to respond to new behaviors. Our project intends to investigate these behaviors to improve safety in and around work zones for AVs. This is achieved by increasing identification and connectivity with work zone artifacts, improving visibility by coating pavement marking and work zone artifacts, and improving mapping of work zones.
 
 # Project Vision, Mission, Goals, and Objectives
+***
 Vision – Enable automated vehicles to safely operate in work zones without human intervention.
 
 Mission – Reduce traffic fatalities and increase mobility for all Americans in work zones through automated vehicles.
@@ -22,6 +23,7 @@ Objectives of this project:
 3. Evaluate the impact of providing high definition mapping of work zone artifacts (i.e. cones, barrels, workers, vehicles)
 4. Improve the map information dissemination process from the mapping providers and/or infrastructure owners/operators to the AVs through standardization of digital mapping information for work zones.
 # Task list
+***
 ## Year - 1 Planning
 
 * Task 1.1 – project management
@@ -43,6 +45,7 @@ Objectives of this project:
 
 We are currently at Year - 2. For details of the tasks, please refer to https://www.transportation.gov/policy-initiatives/automated-vehicles/36-pennsylvania-department-transportation.
 # Team members (Penn State Only)
+***
  
 * Project PIs
   
@@ -59,6 +62,7 @@ We are currently at Year - 2. For details of the tasks, please refer to https://
 <img src ="https://user-images.githubusercontent.com/66030812/148874623-e1d5d245-d73a-4627-84d4-d3e6ebe4a59a.jpg?raw=true" height = "200" width= "200">  | <img src="https://user-images.githubusercontent.com/66030812/148874647-b4cdc4b8-b89f-4a1f-84ee-668c88bc0c23.jpg?raw=true" height = "200" width= "200"> | <img src="https://user-images.githubusercontent.com/66030812/148875266-8b5677b8-01df-46fd-8fbd-e02e0ea36858.jpg?raw=true" height = "200" width= "200"> |  <img src="https://user-images.githubusercontent.com/66030812/148875578-b771c5a6-ba7f-4ed7-be9f-0eea22f8b732.jpg?raw=true" height = "200" width= "200">
 
 # Testing vehicles
+***
 * Penn State Mapping Vehicle
 See [https://connectedvehicles.psu.edu/](https://connectedvehicles.psu.edu/)
 <br>
@@ -68,6 +72,7 @@ See [https://connectedvehicles.psu.edu/](https://connectedvehicles.psu.edu/)
 
 
 # Data flow 
+***
 The data flows through sensors on the vehicle, computational systems in the vehicle, hard drives, computational systems off-vehicle, local databases/servers, cloud service, and finally goes into applications such as autonomous vehicles, vehicle simulation such as CARLA, traffic simulation such as SUMO and other end users. A high leve view of the data flow is shown as below.
 
 <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/DataFlowHighView.png?raw=true" > 
@@ -88,6 +93,7 @@ The data finally can be delivered to end users such as autonomous vehicles, vehi
 
 
 # Code repositories
+***
 Code repositories are hosted by IVSG as below.
 
 | Category                             | Description                                                                                      | Repo address                                                                                                         |
@@ -122,6 +128,7 @@ We also have traffic objects hosted by Penn State that we can use on test track.
 ![](./TrafficObjectsHostedByPennState.PNG)
 
 # Penn State activities
+***
 We set up an example data structure in the DMS to validate the directory as per task 2.1.
 
 <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/DataStructureInDMS.png?raw=true" > 
@@ -134,9 +141,11 @@ We started to test the CARLA traffic simulator.
 
 <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/CARLATest.png?raw=true" > 
 # Broader impacts 
+***
 The Automated Driving System Work Zone reduces abnormal vehicle behaviors improves safety by providing information to the AVs in real-time. By creating the connection between the AVs and construction environments, reliable and accurate information can be used by AVs to make decisions when approaching and driving through work zones. By investigating the behaviors resulting from these decisions, we not only can improve safety in and around work zones for AVs but also the safety of construction zone operators and other motorists. Apart from that, in combination with traffic flow in this area, these behaviors can also be used to adjust the layout of the working zone to ease congestion and inform motorists at an appropriate time and location to improve time and cost effectiveness.
 
 # Groups with related interests
+***
 Please see links below for other research groups with related interests:
 <ul>
 <li>
