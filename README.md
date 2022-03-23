@@ -190,6 +190,12 @@ Please see links below for other research groups with related interests:
   MATLAB for Artificial Intelligence.
  </a>
 </li>
+ 
+   <li>
+ <a href = "https://www.commsignia.com/">
+  Commsignia connects cars with each other and the smart city infrastructure for a safer, more efficient and more sustainable transportation.
+ </a>
+</li>
 </ul>
 
 
