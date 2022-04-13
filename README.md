@@ -202,6 +202,11 @@ Please see links below for other research groups with related interests:
  ASAM OpenSCENARIO®.
  </a>
 </li>
+ <li>
+ <a href = "https://spectrum.ieee.org/ieee-standard-for-autonomous-vehicles">
+ IEEE Standard Will Make Autonomous Vehicles Safer.
+ </a>
+</li>
  
 </ul>
 
