@@ -192,6 +192,16 @@ Please see links below for other research groups with related interests:
   Commsignia connects cars with each other and the smart city infrastructure for a safer, more efficient and more sustainable transportation.
  </a>
 </li>
+  <li>
+ <a href = "https://www.nist.gov/news-events/events/2022/03/standards-and-performance-metrics-road-autonomous-vehicles">
+ Standards and Performance Metrics for On-Road Autonomous Vehicles.
+ </a>
+</li>
+   <li>
+ <a href = "https://www.asam.net/standards/detail/openscenario/#:~:text=ASAM%20OpenSCENARIO%20defines%20a%20file,pedestrians%20and%20other%20traffic%20participants.">
+ ASAM OpenSCENARIO®.
+ </a>
+</li>
  
 </ul>
 
