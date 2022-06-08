@@ -151,7 +151,7 @@ The data tags definition is below:
 
 - Per-treatment data - "MergedMap" or "ProcessedMetrics" or "CARLAScenario" or "Codes"
 
-- Aggregated mapping data - "Precalibration" "Prerun" "Postrun" "Postcalibration:
+- Aggregated mapping data - "Precalibration", "Prerun", "Postrun", "Postcalibration"
 
 - Individual run data - the run number, e.g. pass number 1 of the AV
 
