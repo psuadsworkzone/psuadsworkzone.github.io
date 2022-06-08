@@ -133,9 +133,27 @@ We also have traffic objects hosted by Penn State that we can use on test track.
 
 # Penn State activities
 ***
-We set up an example data structure in the DMS to validate the directory as per task 2.1.
+We set up an example data structure in the DMS to validate the directory.
 
 <img src="https://github.com/psuadsworkzone/psuadsworkzone.github.io/blob/main/DataStructureInDMS.png?raw=true" > 
+
+The data tags definition is below: 
+
+- Stage - either "Simulation","TestTrack","OnRoad"
+
+- ScenarioNumber - the ID number for the Scenario 
+
+- ScenarioShortName - the "short" name for the Scenario
+
+- Treatments - These are 3 subfields, for HD maps, Comms, Coatings - each for "with" and "without"
+
+- DataSource - either "AV" or "MappingVan" or "Roadside"
+
+- Per-treatment data - "MergedMap" or "ProcessedMetrics" or "CARLAScenario" or "Codes"
+
+- Aggregated mapping data - "Precalibration" "Prerun" "Postrun" "Postcalibration:
+
+- Individual run data - the run number, e.g. pass number 1 of the AV
 
 We did a test run to validate the mapping vehicle operation.
 
