@@ -228,9 +228,20 @@ Please see links below for other research groups with related interests:
  
   <li>
  <a href = "https://commonroad.in.tum.de/tutorials/commonroad-interface">
- CommonRoad - Reading, Modifying, and Writing Common Scenarios
+ CommonRoad - Reading, Modifying, and Writing Common Scenarios.
  </a>
 </li>
+<li>
+ <a href = "https://usdot-carma.atlassian.net/wiki/spaces/CRMSIM/overview">
+ CARMA simulation.
+ </a>
+</li>
+<li>
+ <a href = "https://github.com/usdot-fhwa-stol/carma-simulation/">
+ CARMA simulation github repos.
+ </a>
+</li>
+
  
 </ul>
 
